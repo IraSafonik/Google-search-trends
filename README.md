@@ -49,7 +49,7 @@ I chose rank = 1 in the query to specifically retrieve the top-ranked Google sea
 ### 4️⃣ Step 4: Visualization
 - Use Looker Studio to create visualizations such as tables, maps and cards.
 - Design a dashboard to display the key findings and insights.
-<img width="824" alt="Знімок екрана 2024-06-24 о 21 48 10" src="https://github.com/IraSafonik/Google-search-trends/assets/32171563/76a2da65-9469-4fba-bba6-5fe55978c970">
+<img width="831" alt="Знімок екрана 2024-06-24 о 22 53 56" src="https://github.com/IraSafonik/Google-search-trends/assets/32171563/60138481-6944-450c-8092-9e73885dd791">
 
 You could find dashboard - [here](https://lookerstudio.google.com/reporting/186d9873-7360-4e0c-afd9-c9b7b1e1cb69)
 
