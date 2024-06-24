@@ -31,6 +31,10 @@ This project aims to analyze Google search trends worldwide, focusing on specifi
 ### 1️⃣ Step 1: Data Extraction
 - Connect to the Google BigQuery dataset.
 - Write SQL queries to extract data from the `bigquery-public-data.google_trends.international_top_terms` table for the specified timeframe (from July 1, 2024, to the present).
+<img width="1126" alt="Знімок екрана 2024-06-24 о 21 34 58" src="https://github.com/IraSafonik/Google-search-trends/assets/32171563/40755790-7306-4e36-9676-aa2d179b3c79">
+
+***Note: Why I chose rank = 1:** 
+I chose rank = 1 in the query to specifically retrieve the top-ranked Google search queries globally. This ensures that the data returned represents the most popular search queries during the specified period (from June 1, 2024, onwards). 
 
 ### 2️⃣ Step 2: Data Preprocessing
 - Filter the data to include only relevant fields (country, region, query, week, score).
@@ -41,8 +45,11 @@ This project aims to analyze Google search trends worldwide, focusing on specifi
 - Calculate the total number of queries for each region and country.
 
 ### 4️⃣ Step 4: Visualization
-- Use Looker Studio to create visualizations such as maps and charts.
+- Use Looker Studio to create visualizations such as tables, maps and cards.
 - Design a dashboard to display the key findings and insights.
+<img width="600" alt="Знімок екрана 2024-06-24 о 21 45 34" src="https://github.com/IraSafonik/Google-search-trends/assets/32171563/0744c38b-e9da-4d30-959d-de1b87c726d1">
+
+You could find dashboard - [here](https://lookerstudio.google.com/reporting/186d9873-7360-4e0c-afd9-c9b7b1e1cb69)
 
 ### 5️⃣ Step 5: Documentation
 - Document the process, findings, and insights in a comprehensive report.
