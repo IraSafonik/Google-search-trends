@@ -1,3 +1,5 @@
+<img width="783" alt="Знімок екрана 2024-06-24 о 20 04 25" src="https://github.com/IraSafonik/Google-search-trends/assets/32171563/2c78f13a-02c1-49e9-89ac-2072ce85ff65">
+
 # Google Trends Analysis Project
 
 ## 💡 Project Overview
@@ -47,7 +49,7 @@ I chose rank = 1 in the query to specifically retrieve the top-ranked Google sea
 ### 4️⃣ Step 4: Visualization
 - Use Looker Studio to create visualizations such as tables, maps and cards.
 - Design a dashboard to display the key findings and insights.
-<img width="600" alt="Знімок екрана 2024-06-24 о 21 45 34" src="https://github.com/IraSafonik/Google-search-trends/assets/32171563/0744c38b-e9da-4d30-959d-de1b87c726d1">
+<img width="824" alt="Знімок екрана 2024-06-24 о 21 48 10" src="https://github.com/IraSafonik/Google-search-trends/assets/32171563/76a2da65-9469-4fba-bba6-5fe55978c970">
 
 You could find dashboard - [here](https://lookerstudio.google.com/reporting/186d9873-7360-4e0c-afd9-c9b7b1e1cb69)
 
